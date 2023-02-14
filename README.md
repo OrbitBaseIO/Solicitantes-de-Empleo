@@ -2,18 +2,13 @@
 
 ## ¿Que es Orbit Base?
 
-Orbit Base es la comunidad de trabajadores remotos más grande de LATAM y el destino número uno para encontrar trabajos remotos de calidad. En promedio, se publican más de 100 nuevas posiciones cada mes.
+Orbit Base es la comunidad de empleos remotos más grande de Latinoamérica y el destino número uno para encontrar trabajos remotos de calidad. En promedio, se publican más de 100 nuevas posiciones cada mes.
 
-Encuentra trabajo remoto rapido, facil, sin intermediarios y con contrato directo con empresas en el area de tecnológias
-en USA, Europa, y LATAM.
-
-Orbit Base, se lanzó públicamente en 2019. Desde entonces, hemos visto
-crecer nuestras comunidades y alianzas a tal punto que estamos en mas de
-50 paises. ¡El trabajo remoto realmente se está apoderando del mundo!
+Orbit Base se lanzó públicamente en 2019. Desde entonces, hemos visto crecer a nuestra comunidad. Nos han visitado empleadores del 99% de los países de la Tierra. ¡El trabajo remoto realmente se está apoderando del mundo!.
 
 ## ¿Por qué elegir Orbit Base?
 
-Encuentra trabajo remoto rapido, facil, sin intermediarios y con contrato directo con empresas en el area de tecnológias en USA, Europa, y LATAM.
+Encuentra trabajo remoto rápido, fácil, sin intermediarios y con contrato directo con empresas en áreas de tecnologías en USA, Europa, y LatAm.
 
 ### Estás en buena compañía
 
@@ -24,7 +19,7 @@ Encuentra trabajo remoto rapido, facil, sin intermediarios y con contrato direct
 
 ## Navegando OB
 
-**OB** conecta increíbles talentos remotos (como tú) con increíbles empresas remotas. ¿Qué significa esto? Básicamente, las empresas publican listados de trabajo para los roles que están contratando y los buscadores de empleo buscan en los listados de trabajo los roles que desean solicitar.
+**OB** conecta increíbles talentos remotos (como tú) con increíbles empresas remotas. ¿Qué significa esto? Básicamente, las empresas publican listados de trabajo remoto para los roles que están contratando y lxs solicitantes de empleo buscan en los listados de trabajo los roles que desean solicitar.
 
 Cuando **OB** esté contratando, publicaremos nuestros trabajos en la bolsa de trabajo. De lo contrario, ¡no se pierda la oportunidad de solicitar las miles de oportunidades que se enumeran!
 
@@ -43,20 +38,38 @@ Precio: U$0 (gratis)
 
 ### Usuario **PRO**
 
-Precio: U$100 (unico pago)
+Precio: U$1000 en 2 pagos
 
-- Canal privado con ofertas de trabajo remoto filtradas premium de alta calidad
-- Te buscamos los trabajos de mayor paga y beneficios
+- Pago inicial U$200
+- Pago al conseguir el empleo U$800
+
+### Salarios
+
+- Entry-level (iniciante) U$700 a U$1000+ mensuales
+- Junior level, 1 año de experiencia U$1000 a U$1500+
+- Mid-level, 2 años de experiencia U$1500 a U$2700+
+- Senior level con 3 años de experiencia U$3000++++
+
+### Herramientas
+
+- Canal privado con ofertas de trabajos remotos filtradas de alta calidad
+- Comunidad privada para publicar pruebas tecnicas
 - Te ayudamos a aterrizar en tu trabajo ideal
 - Grupo reuniones entre usuarios PRO para compartir experiencias
 
 ### Usuario **Ninja**
 
-Precio: U$500 (unico pago)
+Precio: U$1500
 
-- Te ayudamos en las pruebas tecnicas, a analizarlas, desarrollarlas y pasarlas
-- Mentoria 100% en habilidades duras, en tu camino como desarrollador(a), (roadmap) para convertirte en un developer, backend, frontend o fullstack
-- Mentoria en habilidades blandas como ingles, leer documentacion, escribir documentacion, etc
+- Pago inicial U$500
+- Pago al conseguir el empleo U$1000
+
+### Herramientas
+
+- Todas las herramientas de usuario **PRO**
+- Mentoria en solucion de las pruebas tecnicas, analisis, desarrollo y solucion
+- Mentoria habilidades duras, en tu camino como desarrollador(a), roadmap (mapa de viaje) para convertirte en un desarrollador(a), frontend, backend o fullstack
+- Mentoria en habilidades blandas como inglés, leer documentacion, escribir documentacion
 
 <br />
 <hr />
@@ -70,7 +83,7 @@ Precio: U$500 (unico pago)
 
 Explore nuestras Categorías de trabajo o Búsqueda avanzada y haga clic en los trabajos que le interesan y para los que califica.
 
-Después de leer la lista de trabajos, contactar a la empresa de su interes. Según el proceso de solicitud de la empresa, lo llevarán a su sitio web o al enlace para solicitar el puesto, o se le pedirá que envíe su solicitud por correo electrónico.
+Después de leer la lista de trabajos, contactar a la empresa de su interés. Según el proceso de solicitud de la empresa, lo llevarán a su sitio web o al enlace para solicitar el puesto, o se le pedirá que envíe su solicitud por correo electrónico.
 
 ### Vivo fuera de los EE.UU. ¿Puedo aplicar a cualquier oferta de trabajo?
 
@@ -100,4 +113,4 @@ Hay algunas señales de advertencia comunes:
 
 # ¿Listx para encontrar tu trabajo remoto?
 
-### info@OrbitBase.IO
+# Info@OrbitBase.IO
