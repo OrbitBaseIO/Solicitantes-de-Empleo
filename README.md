@@ -2,78 +2,89 @@
 
 ## ¿Que es Orbit Base?
 
-Orbit Base es la comunidad de empleos remotos más grande de Latinoamérica y el destino número uno para encontrar trabajos remotos de calidad. En promedio, se publican más de 100 nuevas posiciones cada mes.
+Somos una plataforma dedicada a ayudar a las empresas a encontrar el talento adecuado para sus equipos.
 
-Orbit Base se lanzó públicamente en 2019. Desde entonces, hemos visto crecer a nuestra comunidad. Nos han visitado empleadores del 99% de los países de la Tierra. ¡El trabajo remoto realmente se está apoderando del mundo!.
+Nacimos en 2019 con el objetivo de resolver una necesidad clave: muchas empresas no saben dónde encontrar profesionales calificados, y los talentos no siempre saben dónde hallar compañías de calidad. Desde entonces, hemos crecido enormemente, y empleadores de casi todos los países del mundo confían en nosotros.
+
+¡El trabajo remoto está revolucionando el mundo, y estamos aquí para facilitar esa transformación!
 
 ## ¿Por qué elegir Orbit Base?
 
-Encuentra trabajo remoto rápido, fácil, sin intermediarios y con contrato directo con empresas en áreas de tecnologías en USA, Europa, y LatAm.
+Conectamos profesionales con oportunidades laborales en empresas líderes a nivel mundial, de forma rápida y sin intermediarios. Nuestro proceso es ágil y transparente, facilitando la obtención de empleo con contrato directo en sectores tecnológicos en USA, Europa y LatAm. Ofrecemos la flexibilidad de trabajo remoto, permitiéndote impulsar tu carrera desde cualquier lugar mientras formas parte de equipos innovadores y en crecimiento.
 
-### Estás en buena compañía
+## Misión:
 
-### Confiado por las startups tecnológicas líderes en el mundo.
+"Nuestra misión es conectar talentos excepcionales con empresas que buscan potenciar el crecimiento y desarrollo de sus equipos, impulsando el éxito conjunto."
+
+## Visión:
+
+"Ser la plataforma líder y preferida para conectar talentos y empresas, promoviendo la creación de equipos sólidos, inclusivos y colaborativos en todos los sectores, contribuyendo al éxito a largo plazo."
+
+### "Estás en buena compañía. Encuentra tu próximo gran paso aquí."
+
+### "Elegido por las startups tecnológicas que están cambiando el mundo."
 
 <hr />
-<br />
 
 ## Navegando OB
 
-**OB** conecta increíbles talentos remotos (como tú) con increíbles empresas remotas. ¿Qué significa esto? Básicamente, las empresas publican listados de trabajo remoto para los roles que están contratando y lxs solicitantes de empleo buscan en los listados de trabajo los roles que desean solicitar.
-
-Cuando **OB** esté contratando, publicaremos nuestros trabajos en la bolsa de trabajo. De lo contrario, ¡no se pierda la oportunidad de solicitar las miles de oportunidades que se enumeran!
-
 ## ¿Cómo puedo encontrar un trabajo remoto?
 
-Solo debes unirte a nuestro canal para ver los trabajos remotos disponibles
+Solo debes unirte a nuestras redes sociales, canales y comunidades para ver los trabajos remotos disponibles
 
 ### ¿Cuánto cuesta?
 
-### Usuario **Gratuito**
+### Usuario: **Peon** - free tier
 
-Precio: U$0 (gratis)
+💰 Precio: U$0 (gratis)
 
-- Canal publico con ofertas de trabajo remoto, las empresas publican de manera directa
-- Trabajos de contrato directo, sin intermediarios
+- Oportunidades laborales abiertas publicadas en nuestras redes sociales
+- Tablero privado de vacantes: NO ❌
+- Mentoria: NO ❌
 
-### Usuario **PRO**
+### Usuario: **Soldado(a)**
 
-Precio: U$1000 en 2 pagos
+💰 Precio: U$160 dólares
 
-- Pago inicial U$200
-- Pago al conseguir el empleo U$800
+- Tablero privado de vacantes: SI ✅
+- Mentoria: NO ❌
 
-### Salarios
+### Usuario: **Paladino(a)**
 
-- Entry-level (iniciante) U$700 a U$1000+ mensuales
-- Junior level, 1 año de experiencia U$1000 a U$1500+
-- Mid-level, 2 años de experiencia U$1500 a U$2700+
-- Senior level con 3 años de experiencia U$3000++++
+💰 Precio: U$265 dólares
 
-### Herramientas
+- Tablero privado de vacantes: SI ✅
+- Mentoria: SI ✅
 
-- Canal privado con ofertas de trabajos remotos filtradas de alta calidad
-- Comunidad privada para publicar pruebas tecnicas
-- Te ayudamos a aterrizar en tu trabajo ideal
-- Grupo reuniones entre usuarios PRO para compartir experiencias
-
-### Usuario **Ninja**
-
-Precio: U$1500
-
-- Pago inicial U$500
-- Pago al conseguir el empleo U$1000
-
-### Herramientas
-
-- Todas las herramientas de usuario **PRO**
-- Mentoria en solucion de las pruebas tecnicas, analisis, desarrollo y solucion
-- Mentoria habilidades duras, en tu camino como desarrollador(a), roadmap (mapa de viaje) para convertirte en un desarrollador(a), frontend, backend o fullstack
-- Mentoria en habilidades blandas como inglés, leer documentacion, escribir documentacion
-
-<br />
 <hr />
-<br />
+
+## Contacto:
+
+[🟢 Texto a WhatsApp](https://wa.me/573242805768)
+
+<hr />
+
+### Salarios 💰
+
+- entry-level (iniciante) U$600 o ++++
+- junior-level, 1 año de experiencia U$900 o ++++
+- mid-level, 2 años de experiencia U$1500 o ++++
+- senior level con 3 años de experiencia U$2200 o ++++
+- tech-lead con 4 años de experiencia U$3000 o ++++
+
+Depende de la empresa, todo salario es negociable antes de firmar contrato, por lo general esta basado en la experiencia y portafolio de la persona solicitante de empleo
+
+<hr />
+
+## Beneficios grupo privado
+
+### Herramientas extras
+
+- Pruebas tecnicas
+- Capacitaciones de alto valor
+- Grupo de estudio entre la comunidad
+
+<hr />
 
 ## FAQ - Solicitantes de Empleo
 
@@ -111,6 +122,6 @@ Hay algunas señales de advertencia comunes:
 
 3. Te piden información confidencial
 
-# ¿Listx para encontrar tu trabajo remoto?
+## ¿Listo(a) para encontrar tu trabajo remoto?
 
-# Info@OrbitBase.IO
+## info@orbitbase.io
